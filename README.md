@@ -3,11 +3,11 @@
 appears to swirl and twirl like a vortex. The pattern is formed by drawing a series of connected circles with increasing radii, with each circle being drawn in a different color from the HSV color space. The colorsys module is used to convert HSV values to RGB colors, creating a smooth transition between colors.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/F5JqFMvoo30))
 
 # Screenshot
 
-Rainbow-Spiral
+Rainbow Vortex
 ![screenshot](RainbowVortex.png)
 
 
